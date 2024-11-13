@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hd-07s
+- 👋 Hi, I’m Sediqa Ansari
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me sediqaansari86@gmail.com
